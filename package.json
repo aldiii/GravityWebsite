@@ -1,0 +1,26 @@
+{
+  "name": "gravitywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldiii/GravityWebsite.git"
+  },
+  "author": "Aldona Tomzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldiii/GravityWebsite/issues"
+  },
+  "homepage": "https://github.com/aldiii/GravityWebsite#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "node-sass": "^4.14.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {}
+}
